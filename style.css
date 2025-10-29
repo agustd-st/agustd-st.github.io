@@ -2066,7 +2066,7 @@ body {
 .message {
   font-family: "Dancing Script", cursive;
   font-size: 1.8rem;
-  color: #7675be;
+  color: #8787bd;
   text-shadow: 0 0 10px #7472dd, 0 0 20px #7472dd, 0 0 30px #7472dd;
   animation: fadeIn 2s ease-in-out 1s forwards, float 3s ease-in-out infinite;
 
